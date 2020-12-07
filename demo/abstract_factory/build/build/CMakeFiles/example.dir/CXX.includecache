@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sxy/Github/design_mode/demo/abstract_factory/src/export.h
+vector
+-
+iostream
+-
+
+/home/sxy/Github/design_mode/demo/abstract_factory/src/main.cpp
+iostream
+-
+export.h
+/home/sxy/Github/design_mode/demo/abstract_factory/src/export.h
+

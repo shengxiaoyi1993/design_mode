@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/example.dir/home/sxy/Github/design_mode/demo/abstract_factory/src/main.cpp.o CMakeFiles/example.dir/home/sxy/Github/design_mode/demo/abstract_factory/src/export.cpp.o  -o example 
