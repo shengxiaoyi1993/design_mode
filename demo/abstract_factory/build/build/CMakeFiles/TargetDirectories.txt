@@ -1,3 +1,0 @@
-/home/sxy/Github/design_mode/demo/abstract_factory/build/build/CMakeFiles/rebuild_cache.dir
-/home/sxy/Github/design_mode/demo/abstract_factory/build/build/CMakeFiles/edit_cache.dir
-/home/sxy/Github/design_mode/demo/abstract_factory/build/build/CMakeFiles/example.dir
